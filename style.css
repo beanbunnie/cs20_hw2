@@ -1,0 +1,30 @@
+
+		ol {color: #6773c4}
+		ol.items {padding-left: 80px}
+		ol li:first-child{font-weight: 700}
+		ol li ul li {font-weight: 400 !important;}
+		
+		.nav li {display: inline-block; font-size: 20px; padding: 5px 20px 5px 20px; box-sizing:border-box;
+		border: 1px solid #fff; color: #000}
+		
+		.nav li:hover {border: 1px solid #333; color: #fff; background-color: #fab9df}
+		
+		.nav li a {text-decoration: none; color: inherit}	
+
+        .titlename {
+            font-size: 50px;
+            color:rgb(255, 255, 255);
+        }
+
+        .bodystuff {
+            font-size: 20px;
+            color:rgb(255, 255, 255);
+        }
+
+        mark {
+			background-color: rgb(255, 255, 255);
+		}
+
+        table, th, td {
+            border:1px;
+          }
